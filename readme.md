@@ -14,7 +14,7 @@ For more details, see the LICENSE file or visit [GRBL's repository](https://gith
 
 ## Modifications
 This version has been modified by Phạm Hoàng Anh in 2024. The changes include:
-- I modified some pins so it works for 4 axis Laser CNC
+- (nothing yet..., wait)
 
 ## License
 This software is distributed under the GNU General Public License v3 (GPLv3). For the full license text, see the `LICENSE` file included with this project.
